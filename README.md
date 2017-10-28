@@ -14,6 +14,9 @@ This is the official Android Application of the Cultural Fest of NIT Hamirpur **
 
 3. Finally, open this project in Android Studio.
 
+
+
+
 4. Happy Hacking :wink:
 
 >**Contact us or Report a bug at appteam.nith@gmail.com**
